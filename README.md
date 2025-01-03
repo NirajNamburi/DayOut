@@ -1,4 +1,4 @@
-# AI-Powered Day Trip Planner
+# DayOut
 
 An intelligent travel companion that helps you plan the perfect day trip by leveraging AI to generate personalized itineraries and provide local recommendations. The application combines the power of the Llama API for natural language processing with Google Maps for location services.
 
